@@ -1,5 +1,10 @@
 console.log('connected!')
+const translateBtn = document.querySelector('#translateBtn')
+const inpText = document.querySelector('.inpText')
 
-// alert('the script file is connected to html page')
-const username = prompt('Give me your username - ')
-console.log('welcome ', username)
+function clickHandler() {
+    console.log('Button Clicked')
+    console.log('Input from Textarea -', inpText.value)
+}
+
+translateBtn.addEventListener('click', clickHandler)
