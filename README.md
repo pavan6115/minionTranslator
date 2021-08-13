@@ -1,2 +1,11 @@
 # minionTranslator
-A fun app where your input text will be converted into Minion's language.
+
+Made a Minion Translator web app. You can input your text, and that text will automatically be translated into Minion's Language aka Banana language 
+
+Hosted link - 
+
+
+## Contact 
+[Twitter](https://twitter.com/_kpavan)
+
+[LinkedIn](https://www.linkedin.com/in/kulkarni-pavan/)
