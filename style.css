@@ -35,6 +35,7 @@ h1 {
 
 #translateBtn:hover {
     background-color: #F1B714;
+    font-weight: bold;
 }
 
 .txt {
