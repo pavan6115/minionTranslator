@@ -11,3 +11,11 @@ body {
     margin: 1rem;
     padding: 1rem;
 }
+
+.output {
+    border: 1px solid black;
+    height: 30vh;
+    width: 50%;
+    margin: 1rem;
+    padding: 1rem;
+}
